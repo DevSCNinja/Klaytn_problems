@@ -1,0 +1,16 @@
+{
+  "name": "pro-6",
+  "version": "1.0.0",
+  "description": "Sum square difference",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}

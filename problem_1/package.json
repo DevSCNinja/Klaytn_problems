@@ -1,0 +1,16 @@
+{
+  "name": "pro-1",
+  "version": "1.0.0",
+  "description": "Multiples of 3 or 5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
